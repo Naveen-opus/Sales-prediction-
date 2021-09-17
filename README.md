@@ -1,2 +1,3 @@
 # Sales-prediction-
-Sales prediction of a TV is done by using Advertisement Dataset
+Sales of a TV is predicted by using Advertisement Dataset
+
